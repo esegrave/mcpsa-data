@@ -1,0 +1,6 @@
+/data
+.DS_Store
+temp.csv
+.ipynb_checkpoints/
+Comp Survey Data Explorer.twbx
+MCPSA Data Explorer.twbx
